@@ -1,0 +1,19 @@
+{
+  "name": "new_words",
+  "version": "1.0.0",
+  "description": "A node.js api",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "author": "divyamohan123",
+  "license": "ISC",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "express": "^4.18.0",
+    "memory-cache": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
